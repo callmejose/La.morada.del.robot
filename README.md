@@ -1,7 +1,7 @@
 La morada del robot
 ===================
 
-repositorio del semillero de robótica de morada
+repositorio del semillero de robótica de morada, el único software necesario para correr el código se puede descargar desde la página de [arduino](http://arduino.cc/download.php?f=/arduino-1.0.6-windows.exe)
 
 
 ##Licencia
